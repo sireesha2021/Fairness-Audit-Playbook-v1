@@ -3,7 +3,7 @@ Version 1.0
 
 Date: June 5, 2025
 
-Authored by: [Your Team Name]
+Authored by: [Sireesha Chavali & Team]
 
 1. Introduction: Why This Playbook Matters
 In today's technology landscape, AI systems are ubiquitous, impacting everything from financial decisions to healthcare outcomes. However, the unchecked deployment of these systems can inadvertently perpetuate or even amplify existing societal biases, leading to unfair and inequitable results. Our company, like many others, has recognized the critical need to proactively address these concerns.
